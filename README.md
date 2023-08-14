@@ -10,7 +10,7 @@ To run this code:
 2. Install running the following command:
 
 ```bash
-npm run install
+npm install
 ```
 
 3. Then run with:
