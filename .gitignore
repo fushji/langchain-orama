@@ -1,0 +1,8 @@
+.vscode/
+build/
+tmp/
+**/tmp/
+node_modules/
+.dev
+.DS_Store
+.env
